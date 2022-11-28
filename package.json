@@ -1,0 +1,25 @@
+{
+  "name": "wk1-code-challenge",
+  "version": "1.0.0",
+  "description": "wk1 code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuongren/WK1-code-challenge.git"
+  },
+  "keywords": [
+    "salary",
+    "speed",
+    "score",
+    "netSalary"
+  ],
+  "author": "Youngren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuongren/WK1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/Yuongren/WK1-code-challenge#readme"
+}
